@@ -16,3 +16,11 @@ towards the template repository.
 - [mains](mains)
 - [sides](sides)
 - [desserts](desserts)
+
+## Random extra info
+
+You expect info here, but we are just extending the repository.
+
+## Developer guidelines 
+
+Going full wikipedia: you can help extending this readme by adding to it and creating a pull request.
